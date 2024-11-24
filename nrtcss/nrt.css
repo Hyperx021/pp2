@@ -1,0 +1,118 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Titillium Web", sans-serif;
+
+   
+}
+
+body{
+    background: rgb(2,0,36);
+    background-image:url(img/narutopg.jpg);
+
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+}
+
+html{
+    overflow-x: hidden;
+    scroll-padding-top: 9rem;
+    scroll-behavior: smooth;
+  }
+  
+  html::-webkit-scrollbar{
+    width: .8rem;
+  }
+  
+  html::-webkit-scrollbar-track{
+    background: transparent;
+  }
+  
+  html::-webkit-scrollbar-thumb{
+    background: rgb(0, 0, 0);
+    border-radius: 5rem;
+  }
+
+.tt{
+    width: 700px;
+    height: 280px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.459);
+    border-radius: 30px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+h1{
+    color: white;
+    font-size: 20px;
+    padding: 0px;
+    cursor: default;
+}
+
+.papel{
+    width: 700px;
+    height: 200px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.459);
+    border-radius: 30px;
+    padding: 10px; 
+    margin-top: 10px;
+    padding-top: 30px;
+
+}
+
+.poderes{
+    width: 700px;
+    height: 400px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.459);
+    border-radius: 30px;
+    padding: 10px; 
+    margin-top: 10px;
+    padding-top: 30px;
+
+}
+
+.desn{
+    width: 700px;
+    height: 160px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.459);
+    border-radius: 30px;
+    padding: 10px; 
+    margin-top: 10px;
+    padding-top: 30px;
+    
+}
+
+.lgd{
+    width: 700px;
+    height: 160px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.459);
+    border-radius: 30px;
+    padding: 10px; 
+    margin-top: 10px;
+    padding-top: 30px;
+    
+}
+
+.vlt{
+    position: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h2{
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
